@@ -1,529 +1,721 @@
 [{
 	"matchId": 1,
 	"venue": "Kennington Oval, London",
-	"homeTeam": "England",
-	"awayTeam": "South Africa",
+	"homeTeam": {
+		"name": "England",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "South Africa",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-05-30T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 2,
 	"venue": "Trent Bridge, Nottingham",
-	"homeTeam": "West Indies",
-	"awayTeam": "Pakistan",
+	"homeTeam": {
+		"name": "West Indies",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Pakistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-05-31T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 3,
 	"venue": "Sophia Gardens, Cardiff",
-	"homeTeam": "New Zealand",
-	"awayTeam": "Sri Lanka",
+	"homeTeam": {
+		"name": "New Zealand",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Sri Lanka",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-01T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 4,
 	"venue": "County Ground, Bristol",
-	"homeTeam": "Afghanistan",
-	"awayTeam": "Australia",
+	"homeTeam": {
+		"name": "Afghanistan",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Australia",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-01T12:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 5,
 	"venue": "Kennington Oval, London",
-	"homeTeam": "South Africa",
-	"awayTeam": "Bangladesh",
+	"homeTeam": {
+		"name": "South Africa",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Bangladesh",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-02T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 6,
 	"venue": "Trent Bridge, Nottingham",
-	"homeTeam": "England",
-	"awayTeam": "Pakistan",
+	"homeTeam": {
+		"name": "England",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Pakistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-03T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 7,
 	"venue": "Sophia Gardens, Cardiff",
-	"homeTeam": "Afghanistan",
-	"awayTeam": "Sri Lanka",
+	"homeTeam": {
+		"name": "Afghanistan",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Sri Lanka",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-04T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 8,
 	"venue": "The Rose Bowl, Southampton",
-	"homeTeam": "South Africa",
-	"awayTeam": "India",
+	"homeTeam": {
+		"name": "South Africa",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "India",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-05T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 9,
 	"venue": "Kennington Oval, London",
-	"homeTeam": "Bangladesh",
-	"awayTeam": "New Zealand",
+	"homeTeam": {
+		"name": "Bangladesh",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "New Zealand",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-05T12:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 10,
 	"venue": "Trent Bridge, Nottingham",
-	"homeTeam": "Australia",
-	"awayTeam": "West Indies",
+	"homeTeam": {
+		"name": "Australia",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "West Indies",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-06T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 11,
 	"venue": "County Ground, Bristol",
-	"homeTeam": "Pakistan",
-	"awayTeam": "Sri Lanka",
+	"homeTeam": {
+		"name": "Pakistan",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Sri Lanka",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-07T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 12,
 	"venue": "Sophia Gardens, Cardiff",
-	"homeTeam": "England",
-	"awayTeam": "Bangladesh",
+	"homeTeam": {
+		"name": "England",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Bangladesh",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-08T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 13,
 	"venue": "The Cooper Associates County Ground, Taunton",
-	"homeTeam": "Afghanistan",
-	"awayTeam": "New Zealand",
+	"homeTeam": {
+		"name": "Afghanistan",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "New Zealand",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-08T12:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 14,
 	"venue": "Kennington Oval, London",
-	"homeTeam": "India",
-	"awayTeam": "Australia",
+	"homeTeam": {
+		"name": "India",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Australia",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-09T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 15,
 	"venue": "The Rose Bowl, Southampton",
-	"homeTeam": "South Africa",
-	"awayTeam": "West Indies",
+	"homeTeam": {
+		"name": "South Africa",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "West Indies",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-10T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 16,
 	"venue": "County Ground, Bristol",
-	"homeTeam": "Bangladesh",
-	"awayTeam": "Sri Lanka",
+	"homeTeam": {
+		"name": "Bangladesh",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Sri Lanka",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-11T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 17,
 	"venue": "The Cooper Associates County Ground, Taunton",
-	"homeTeam": "Australia",
-	"awayTeam": "Pakistan",
+	"homeTeam": {
+		"name": "Australia",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Pakistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-12T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 18,
 	"venue": "Trent Bridge, Nottingham",
-	"homeTeam": "India",
-	"awayTeam": "New Zealand",
+	"homeTeam": {
+		"name": "India",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "New Zealand",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-13T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 19,
 	"venue": "The Rose Bowl, Southampton",
-	"homeTeam": "England",
-	"awayTeam": "West Indies",
+	"homeTeam": {
+		"name": "England",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "West Indies",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-14T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 20,
 	"venue": "Kennington Oval, London",
-	"homeTeam": "Sri Lanka",
-	"awayTeam": "Australia",
+	"homeTeam": {
+		"name": "Sri Lanka",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Australia",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-15T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 21,
 	"venue": "Sophia Gardens, Cardiff",
-	"homeTeam": "South Africa",
-	"awayTeam": "Afghanistan",
+	"homeTeam": {
+		"name": "South Africa",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Afghanistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-15T12:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 22,
 	"venue": "Old Trafford, Manchester",
-	"homeTeam": "India",
-	"awayTeam": "Pakistan",
+	"homeTeam": {
+		"name": "India",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Pakistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-16T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 23,
 	"venue": "The Cooper Associates County Ground, Taunton",
-	"homeTeam": "West Indies",
-	"awayTeam": "Bangladesh",
+	"homeTeam": {
+		"name": "West Indies",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Bangladesh",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-17T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 24,
 	"venue": "Old Trafford, Manchester",
-	"homeTeam": "England",
-	"awayTeam": "Afghanistan",
+	"homeTeam": {
+		"name": "England",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Afghanistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-18T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 25,
 	"venue": "Edgbaston, Birmingham",
-	"homeTeam": "New Zealand",
-	"awayTeam": "South Africa",
+	"homeTeam": {
+		"name": "New Zealand",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "South Africa",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-19T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 26,
 	"venue": "Trent Bridge, Nottingham",
-	"homeTeam": "Australia",
-	"awayTeam": "Bangladesh",
+	"homeTeam": {
+		"name": "Australia",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Bangladesh",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-20T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 27,
 	"venue": "Headingley, Leeds",
-	"homeTeam": "England",
-	"awayTeam": "Sri Lanka",
+	"homeTeam": {
+		"name": "England",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Sri Lanka",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-21T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 28,
 	"venue": "The Rose Bowl, Southampton",
-	"homeTeam": "India",
-	"awayTeam": "Afghanistan",
+	"homeTeam": {
+		"name": "India",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Afghanistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-22T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 29,
 	"venue": "Old Trafford, Manchester",
-	"homeTeam": "West Indies",
-	"awayTeam": "New Zealand",
+	"homeTeam": {
+		"name": "West Indies",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "New Zealand",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-22T12:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 30,
 	"venue": "Lord's, London",
-	"homeTeam": "Pakistan",
-	"awayTeam": "South Africa",
+	"homeTeam": {
+		"name": "Pakistan",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "South Africa",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-23T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 31,
 	"venue": "The Rose Bowl, Southampton",
-	"homeTeam": "Bangladesh",
-	"awayTeam": "Afghanistan",
+	"homeTeam": {
+		"name": "Bangladesh",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Afghanistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-24T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 32,
 	"venue": "Lord's, London",
-	"homeTeam": "England",
-	"awayTeam": "Australia",
+	"homeTeam": {
+		"name": "England",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Australia",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-25T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 33,
 	"venue": "Edgbaston, Birmingham",
-	"homeTeam": "New Zealand",
-	"awayTeam": "Pakistan",
+	"homeTeam": {
+		"name": "New Zealand",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Pakistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-26T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 34,
 	"venue": "Old Trafford, Manchester",
-	"homeTeam": "West Indies",
-	"awayTeam": "India",
+	"homeTeam": {
+		"name": "West Indies",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "India",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-27T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 35,
 	"venue": "Riverside Ground, Chester-le-Street",
-	"homeTeam": "Sri Lanka",
-	"awayTeam": "South Africa",
+	"homeTeam": {
+		"name": "Sri Lanka",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "South Africa",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-28T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 36,
 	"venue": "Headingley, Leeds",
-	"homeTeam": "Pakistan",
-	"awayTeam": "Afghanistan",
+	"homeTeam": {
+		"name": "Pakistan",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Afghanistan",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-29T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 37,
 	"venue": "Lord's, London",
-	"homeTeam": "New Zealand",
-	"awayTeam": "Australia",
+	"homeTeam": {
+		"name": "New Zealand",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Australia",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-29T12:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 38,
 	"venue": "Edgbaston, Birmingham",
-	"homeTeam": "England",
-	"awayTeam": "India",
+	"homeTeam": {
+		"name": "England",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "India",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-06-30T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 39,
 	"venue": "Riverside Ground, Chester-le-Street",
-	"homeTeam": "Sri Lanka",
-	"awayTeam": "West Indies",
+	"homeTeam": {
+		"name": "Sri Lanka",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "West Indies",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-01T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 40,
 	"venue": "Edgbaston, Birmingham",
-	"homeTeam": "Bangladesh",
-	"awayTeam": "India",
+	"homeTeam": {
+		"name": "Bangladesh",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "India",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-02T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 41,
 	"venue": "Riverside Ground, Chester-le-Street",
-	"homeTeam": "England",
-	"awayTeam": "New Zealand",
+	"homeTeam": {
+		"name": "England",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "New Zealand",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-03T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 42,
 	"venue": "Headingley, Leeds",
-	"homeTeam": "Afghanistan",
-	"awayTeam": "West Indies",
+	"homeTeam": {
+		"name": "Afghanistan",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "West Indies",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-04T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 43,
 	"venue": "Lord's, London",
-	"homeTeam": "Pakistan",
-	"awayTeam": "Bangladesh",
+	"homeTeam": {
+		"name": "Pakistan",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "Bangladesh",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-05T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 44,
 	"venue": "Headingley, Leeds",
-	"homeTeam": "Sri Lanka",
-	"awayTeam": "India",
+	"homeTeam": {
+		"name": "Sri Lanka",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "India",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-06T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 45,
 	"venue": "Old Trafford, Manchester",
-	"homeTeam": "Australia",
-	"awayTeam": "South Africa",
+	"homeTeam": {
+		"name": "Australia",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "South Africa",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-06T12:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 46,
 	"venue": "Old Trafford, Manchester",
-	"homeTeam": "TBC",
-	"awayTeam": "TBC 1st Semifinal",
+	"homeTeam": {
+		"name": "TBC",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "TBC 1st Semifinal",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-09T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 47,
 	"venue": "Edgbaston, Birmingham",
-	"homeTeam": "TBC",
-	"awayTeam": "TBC 2nd Semifinal",
+	"homeTeam": {
+		"name": "TBC",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "TBC 2nd Semifinal",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-11T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }, {
 	"matchId": 48,
 	"venue": "Lord's, London",
-	"homeTeam": "TBC",
-	"awayTeam": "TBC Final",
+	"homeTeam": {
+		"name": "TBC",
+		"flag": null,
+		"captain": null
+	},
+	"awayTeam": {
+		"name": "TBC Final",
+		"flag": null,
+		"captain": null
+	},
 	"dateTime": "2019-07-14T09:30:00.000Z",
-	"result": "TBD",
-	"homeTeamFlag": null,
-	"homeTeamCaptain": null,
-	"awayTeamFlag": null,
-	"awayTeamCaptain": null
+	"homeResult": null
 }]
