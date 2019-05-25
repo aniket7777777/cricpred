@@ -13,8 +13,8 @@
       "captain": null
     },
     "dateTime": "2019-05-30T09:30:00.000Z",
-    "homeResult": null,
-    "tossResult": null,
+    "homeResult": "W",
+    "tossResult": "W",
     "momResult": null
   },
   {
@@ -31,8 +31,8 @@
       "captain": null
     },
     "dateTime": "2019-05-31T09:30:00.000Z",
-    "homeResult": null,
-    "tossResult": null,
+    "homeResult": "L",
+    "tossResult": "L",
     "momResult": null
   },
   {
