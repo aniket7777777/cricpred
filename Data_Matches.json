@@ -813,12 +813,12 @@
     "matchId": 46,
     "venue": "Old Trafford, Manchester",
     "homeTeam": {
-      "name": "TBC 1st Semifinal",
+      "name": "TBC 1st Semifinalist",
       "flag": null,
       "captain": null
     },
     "awayTeam": {
-      "name": "TBC 1st Semifinal",
+      "name": "TBC 1st Semifinalist",
       "flag": null,
       "captain": null
     },
@@ -831,12 +831,12 @@
     "matchId": 47,
     "venue": "Edgbaston, Birmingham",
     "homeTeam": {
-      "name": "TBC 2nd Semifinal",
+      "name": "TBC 2nd Semifinalist",
       "flag": null,
       "captain": null
     },
     "awayTeam": {
-      "name": "TBC 2nd Semifinal",
+      "name": "TBC 2nd Semifinalist",
       "flag": null,
       "captain": null
     },
@@ -849,12 +849,12 @@
     "matchId": 48,
     "venue": "Lord's, London",
     "homeTeam": {
-      "name": "TBC Final",
+      "name": "TBC Finalist",
       "flag": null,
       "captain": null
     },
     "awayTeam": {
-      "name": "TBC Final",
+      "name": "TBC Finalist",
       "flag": null,
       "captain": null
     },
