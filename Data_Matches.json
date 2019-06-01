@@ -49,8 +49,8 @@
       "captain": null
     },
     "dateTime": "2019-06-01T09:30:00.000Z",
-    "homeResult": 'W',
-    "tossResult": 'W',
+    "homeResult": "W",
+    "tossResult": "W",
     "momResult": null
   },
   {
@@ -67,8 +67,8 @@
       "captain": null
     },
     "dateTime": "2019-06-01T12:30:00.000Z",
-    "homeResult": 'L',
-    "tossResult": 'W',
+    "homeResult": "L",
+    "tossResult": "W",
     "momResult": null
   },
   {
