@@ -210,7 +210,7 @@
       "flag": null,
       "captain": null
     },
-    "dateTime": "2019-06-08T09:30:00.000Z",
+    "dateTime": "2019-06-06T09:30:00.000Z",
     "homeResult": "W",
     "tossResult": "L",
     "momResult": null
@@ -229,8 +229,8 @@
       "captain": null
     },
     "dateTime": "2019-06-08T12:30:00.000Z",
-    "homeResult": null,
-    "tossResult": null,
+    "homeResult": "L",
+    "tossResult": "W",
     "momResult": null
   },
   {
