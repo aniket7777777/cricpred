@@ -44,7 +44,7 @@
       "ROHIT SHARMA",
       "JASPRIT BUMRAH",
       "YUZVENDRA CHAHAL",
-      "SHIKHAR DHAWAN",
+      "RISHABH PANT",
       "MS DHONI",
       "RAVINDRA JADEJA",
       "KEDAR JADHAV",
@@ -160,6 +160,7 @@
   {
     "team": "Bangladesh",
     "players": [
+      "MASHRAFE MORTAZA",
       "ABU JAYED",
       "LITON DAS",
       "MAHMUDULLAH",
