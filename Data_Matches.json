@@ -517,9 +517,9 @@
       "captain": null
     },
     "dateTime": "2019-06-22T12:30:00.000Z",
-    "homeResult": null,
-    "tossResult": null,
-    "momResult": null
+    "homeResult": "W",
+    "tossResult": "L",
+    "momResult": "KANE WILLIOMSON"
   },
   {
     "matchId": 30,
