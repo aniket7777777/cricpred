@@ -571,9 +571,9 @@
       "captain": null
     },
     "dateTime": "2019-06-25T09:30:00.000Z",
-    "homeResult": null,
-    "tossResult": null,
-    "momResult": null
+    "homeResult": "L",
+    "tossResult": "W",
+    "momResult": "AARON FINCH"
   },
   {
     "matchId": 33,
