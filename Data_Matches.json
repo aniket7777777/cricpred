@@ -733,9 +733,9 @@
       "captain": null
     },
     "dateTime": "2019-07-03T09:30:00.000Z",
-    "homeResult": null,
-    "tossResult": null,
-    "momResult": null
+    "homeResult": "W",
+    "tossResult": "W",
+    "momResult": "JONNY BAIRSTOW"
   },
   {
     "matchId": 42,
