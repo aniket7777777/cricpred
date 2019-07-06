@@ -787,9 +787,9 @@
       "captain": null
     },
     "dateTime": "2019-07-06T09:30:00.000Z",
-    "homeResult": null,
-    "tossResult": null,
-    "momResult": null
+    "homeResult": "L",
+    "tossResult": "W",
+    "momResult": "ROHIT SHARMA"
   },
   {
     "matchId": 45,
