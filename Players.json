@@ -1,0 +1,177 @@
+[
+  {
+    "team": "Afghanistan",
+    "players": [
+      "GULBADIN NAIB",
+      "ASGHAR AFGHAN",
+      "DAWLAT ZADRAN",
+      "HAMID HASSAN",
+      "HAZRAT ZAZAI",
+      "MOHAMMAD NABI",
+      "MOHAMMAD SHAHZAD",
+      "MUJEEB UR RAHMAN",
+      "NAJIBULLAH ZADRAN",
+      "NOOR ALI ZADRAN",
+      "RAHMAT SHAH",
+      "RASHID KHAN",
+      "SAMIULLAH SHINWARI"
+    ]
+  },
+  {
+    "team": "Australia",
+    "players": [
+      "AARON FINCH",
+      "JASON BEHRENDORFF",
+      "ALEX CAREY",
+      "NATHAN COULTER-NILE",
+      "PAT CUMMINS",
+      "USMAN KHAWAJA",
+      "NATHAN LYON",
+      "SHAUN MARSH",
+      "GLENN MAXWELL",
+      "KANE RICHARDSON",
+      "STEVE SMITH",
+      "MITCHELL STARC",
+      "MARCUS STOINIS",
+      "DAVID WARNER",
+      "ADAM ZAMPA"
+    ]
+  },
+  {
+    "team": "India",
+    "players": [
+      "VIRAT KOHLI",
+      "ROHIT SHARMA",
+      "JASPRIT BUMRAH",
+      "YUZVENDRA CHAHAL",
+      "SHIKHAR DHAWAN",
+      "MS DHONI",
+      "RAVINDRA JADEJA",
+      "KEDAR JADHAV",
+      "DINESH KARTHIK",
+      "KULDEEP YADAV",
+      "BHUVNESHWAR KUMAR",
+      "MOHAMMED SHAMI",
+      "HARDIK PANDYA",
+      "KL RAHUL",
+      "VIJAY SHANKAR"
+    ]
+  },
+  {
+    "team": "Pakistan",
+    "players": [
+      "SARFARAZ AHMED",
+      "ASIF ALI",
+      "BABAR AZAM",
+      "FAKHAR ZAMAN",
+      "HARIS SOHAIL",
+      "HASSAN ALI",
+      "IMAD WASIM",
+      "IMAM-UL-HAQ",
+      "MOHAMMAD AMIR",
+      "MOHAMMAD HAFEEZ",
+      "MOHAMMAD HASNAIN",
+      "SHADAB KHAN",
+      "SHAHEEN AFRIDI",
+      "SHOAIB MALIK",
+      "WAHAB RIAZ"
+    ]
+  },
+  {
+    "team": "Sri Lanka",
+    "players": [
+      "DIMUTH KARUNARATNE",
+      "DHANANJAYA DE SILVA",
+      "NUWAN PRADEEP",
+      "AVISHKA FERNANDO",
+      "SURANGA LAKMAL",
+      "LASITH MALINGA",
+      "ANGELO MATHEWS",
+      "KUSAL MENDIS",
+      "JEEVAN MENDIS",
+      "KUSAL PERERA",
+      "THISARA PERERA",
+      "MILINDA SIRIWARDANA",
+      "LAHIRU THIRIMANNE",
+      "ISURU UDANA",
+      "JEFFREY VANDERSAY"
+    ]
+  },
+  {
+    "team": "West Indies",
+    "players": [
+      "JASON HOLDER",
+      "FABIAN ALLEN",
+      "CARLOS BRATHWAITE",
+      "DARREN BRAVO",
+      "SHELDON COTTRELL",
+      "SHANNON GABRIEL",
+      "CHRIS GAYLE",
+      "SHIMRON HETMYER",
+      "SHAI HOPE",
+      "EVIN LEWIS",
+      "ASHLEY NURSE",
+      "NICHOLAS POORAN",
+      "KEMAR ROACH",
+      "ANDRE RUSSELL",
+      "OSHANE THOMAS"
+    ]
+  },
+  {
+    "team": "England",
+    "players": [
+      "MOEEN ALI",
+      "JOFRA ARCHER",
+      "JONNY BAIRSTOW",
+      "JOS BUTTLER",
+      "TOM CURRAN",
+      "LIAM DAWSON",
+      "LIAM PLUNKETT",
+      "ADIL RASHID",
+      "JOE ROOT",
+      "JASON ROY",
+      "BEN STOKES",
+      "JAMES VINCE",
+      "CHRIS WOAKES",
+      "MARK WOOD"
+    ]
+  },
+  {
+    "team": "South Africa",
+    "players": [
+      "HASHIM AMLA",
+      "QUINTON DE KOCK",
+      "JP DUMINY",
+      "BEURAN HENDRICKS",
+      "IMRAN TAHIR",
+      "AIDEN MARKRAM",
+      "DAVID MILLER",
+      "CHRIS MORRIS",
+      "LUNGI NGIDI",
+      "ANDILE PHEHLUKWAYO",
+      "DWAINE PRETORIUS",
+      "KAGISO RABADA",
+      "TABRAIZ SHAMSI",
+      "RASSIE VAN DER DUSSEN"
+    ]
+  },
+  {
+    "team": "Bangladesh",
+    "players": [
+      "ABU JAYED",
+      "LITON DAS",
+      "MAHMUDULLAH",
+      "MEHIDY HASAN",
+      "MOHAMMAD MITHUN",
+      "MOHAMMAD SAIFUDDIN",
+      "MOSADDEK HOSSAIN",
+      "MUSHFIQUR RAHIM",
+      "MUSTAFIZUR RAHMAN",
+      "RUBEL HOSSAIN",
+      "SABBIR RAHMAN",
+      "SHAKIB AL HASAN",
+      "SOUMYA SARKAR",
+      "TAMIM IQBAL"
+    ]
+  }
+]
