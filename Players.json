@@ -2,13 +2,15 @@
   {
     "team": "Afghanistan",
     "players": [
+      "AFTAB ALAM",
+      "HASHMATULLAH SHAHIDI",
       "GULBADIN NAIB",
       "ASGHAR AFGHAN",
       "DAWLAT ZADRAN",
       "HAMID HASSAN",
       "HAZRAT ZAZAI",
       "MOHAMMAD NABI",
-      "MOHAMMAD SHAHZAD",
+      "IKRAM ALI KHIL",
       "MUJEEB UR RAHMAN",
       "NAJIBULLAH ZADRAN",
       "NOOR ALI ZADRAN",
@@ -44,7 +46,7 @@
       "ROHIT SHARMA",
       "JASPRIT BUMRAH",
       "YUZVENDRA CHAHAL",
-      "SHIKHAR DHAWAN",
+      "RISHABH PANT",
       "MS DHONI",
       "RAVINDRA JADEJA",
       "KEDAR JADHAV",
@@ -54,7 +56,7 @@
       "MOHAMMED SHAMI",
       "HARDIK PANDYA",
       "KL RAHUL",
-      "VIJAY SHANKAR"
+      "MAYANK AGARWAL"
     ]
   },
   {
@@ -120,6 +122,7 @@
   {
     "team": "England",
     "players": [
+      "EOIN MORGAN",
       "MOEEN ALI",
       "JOFRA ARCHER",
       "JONNY BAIRSTOW",
@@ -139,6 +142,7 @@
   {
     "team": "South Africa",
     "players": [
+      "FAF DU PLESSIS",
       "HASHIM AMLA",
       "QUINTON DE KOCK",
       "JP DUMINY",
@@ -158,6 +162,7 @@
   {
     "team": "Bangladesh",
     "players": [
+      "MASHRAFE MORTAZA",
       "ABU JAYED",
       "LITON DAS",
       "MAHMUDULLAH",
@@ -173,5 +178,26 @@
       "SOUMYA SARKAR",
       "TAMIM IQBAL"
     ]
+  },
+  {
+    "team": "New Zealand",
+    "players": [
+      "ROSS TAYLOR",
+      "TIM SOUTHEE",
+      "ISH SODHI",
+      "MITCHELL SANTNER",
+      "KANE WILLIOMSON",
+      "HENRY NICHOLLS",
+      "JIMMY NEESHAM",
+      "COLIN MUNRO",
+      "TOM LATHAM",
+      "MATT HENRY",
+      "MARTIN GUPTILL",
+      "LOCKIE FERGUSON",
+      "COLIN DE GRANDHOMME",
+      "TRENT BOULT",
+      "TOM BLUNDELL"
+    ]
   }
 ]
+
